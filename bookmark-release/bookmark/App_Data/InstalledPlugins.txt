@@ -1,0 +1,7 @@
+Technoscore.HeaderBanner
+Technoscore.HorizonMegaMenu
+Widgets.CategorySlider
+Widgets.Popup.Enquiry
+Widgets.NivoSlider
+Pickup.PickupInStore
+Payments.CashOnDelivery

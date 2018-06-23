@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source="120.138.8.94, 14433";Initial Catalog=ecrbookl_nop;Integrated Security=False;Persist Security Info=False;User ID=ecrbookl_nop;Password=bewithbooks7#
